@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064241592507",
+    "firebase_url": "https://learninglounge-48809-default-rtdb.firebaseio.com",
+    "project_id": "learninglounge-48809",
+    "storage_bucket": "learninglounge-48809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064241592507:android:8094200a4ecc5853a2919e",
+        "android_client_info": {
+          "package_name": "com.example.learning_lounge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064241592507-hh2jr2scbm3tf0t7v3q8rum3rb8kmtqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMe93WucGzXuGGPLsO0uZXpZe0i3elZDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064241592507-hh2jr2scbm3tf0t7v3q8rum3rb8kmtqo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064241592507-pkuscaeb66mapisv65buuabnopcvnn86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learningLounge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
